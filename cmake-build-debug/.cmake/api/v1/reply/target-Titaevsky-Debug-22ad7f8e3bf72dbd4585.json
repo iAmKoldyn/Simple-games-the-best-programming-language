@@ -262,147 +262,147 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2.framework"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2.framework"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2.framework/Headers"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2.framework/Headers"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2.framework/Versions"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2.framework/Versions"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2.framework/Versions/A"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2.framework/Versions/A"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2.framework/Versions/A/Headers"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2.framework/Versions/A/Headers"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2.framework/Versions/Current"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2.framework/Versions/Current"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2.framework/Versions/Current/Headers"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2.framework/Versions/Current/Headers"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2_ttf.framework"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2_ttf.framework"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2_ttf.framework/Headers"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2_ttf.framework/Headers"
 				},
 				{
 					"backtrace" : 12,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2_ttf.framework/Versions"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2_ttf.framework/Versions"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2_ttf.framework/Versions/A"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2_ttf.framework/Versions/A"
 				},
 				{
 					"backtrace" : 14,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2_ttf.framework/Versions/A/Headers"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2_ttf.framework/Versions/A/Headers"
 				},
 				{
 					"backtrace" : 15,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2_ttf.framework/Versions/Current"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2_ttf.framework/Versions/Current"
 				},
 				{
 					"backtrace" : 16,
-					"path" : "/home/iamkoldyn/Titaevsky/_mac/SDL2_ttf.framework/Versions/Current/Headers"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_mac/SDL2_ttf.framework/Versions/Current/Headers"
 				},
 				{
 					"backtrace" : 17,
-					"path" : "/home/iamkoldyn/Titaevsky/_osn"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_osn"
 				},
 				{
 					"backtrace" : 18,
-					"path" : "/home/iamkoldyn/Titaevsky/_stb"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_stb"
 				},
 				{
 					"backtrace" : 19,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/glew-2.1.0"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/glew-2.1.0"
 				},
 				{
 					"backtrace" : 20,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/glew-2.1.0/include"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/glew-2.1.0/include"
 				},
 				{
 					"backtrace" : 21,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/glew-2.1.0/include/GL"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/glew-2.1.0/include/GL"
 				},
 				{
 					"backtrace" : 22,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/SDL2-2.0.5"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/SDL2-2.0.5"
 				},
 				{
 					"backtrace" : 23,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/SDL2-2.0.5/include"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/SDL2-2.0.5/include"
 				},
 				{
 					"backtrace" : 24,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/SDL2_ttf-2.0.14"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/SDL2_ttf-2.0.14"
 				},
 				{
 					"backtrace" : 25,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/SDL2_ttf-2.0.14/include"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/SDL2_ttf-2.0.14/include"
 				},
 				{
 					"backtrace" : 26,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x64/include"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x64/include"
 				},
 				{
 					"backtrace" : 27,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x64/include/sec_api"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x64/include/sec_api"
 				},
 				{
 					"backtrace" : 28,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x64/include/sec_api/sys"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x64/include/sec_api/sys"
 				},
 				{
 					"backtrace" : 29,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x64/include/sys"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x64/include/sys"
 				},
 				{
 					"backtrace" : 30,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x64/include/winapi"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x64/include/winapi"
 				},
 				{
 					"backtrace" : 31,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x64/libtcc"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x64/libtcc"
 				},
 				{
 					"backtrace" : 32,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x86/include"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x86/include"
 				},
 				{
 					"backtrace" : 33,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x86/include/sec_api"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x86/include/sec_api"
 				},
 				{
 					"backtrace" : 34,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x86/include/sec_api/sys"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x86/include/sec_api/sys"
 				},
 				{
 					"backtrace" : 35,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x86/include/sys"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x86/include/sys"
 				},
 				{
 					"backtrace" : 36,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x86/include/winapi"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x86/include/winapi"
 				},
 				{
 					"backtrace" : 37,
-					"path" : "/home/iamkoldyn/Titaevsky/_win/tcc-x86/libtcc"
+					"path" : "/home/iamkoldyn/Simple-games-the-best-programming-language/_win/tcc-x86/libtcc"
 				}
 			],
 			"language" : "C",

@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: Titaevsky
+# Project: Titaevskiy
 # Configurations: Debug
 # =============================================================================
 # =============================================================================
@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/iamkoldyn/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/iamkoldyn/Titaevsky -B/home/iamkoldyn/Titaevsky/cmake-build-debug
+  command = /home/iamkoldyn/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/iamkoldyn/Simple-games-the-best-programming-language -B/home/iamkoldyn/Simple-games-the-best-programming-language/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

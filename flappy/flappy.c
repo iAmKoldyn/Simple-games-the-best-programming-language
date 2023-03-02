@@ -79,7 +79,7 @@ void setup()
         srand(time(NULL)); // Задаём начальное значение Srand(time.h) на основе текущего времени
 
         SDL_Init(SDL_INIT_VIDEO); // Инициализируем SDL video подсистему
-        SDL_Window *win = SDL_CreateWindow("Titaevsky", // Создаём окно
+        SDL_Window *win = SDL_CreateWindow("Titaevskiy", // Создаём окно
                 SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, W, H, SDL_WINDOW_SHOWN);
         renderer = SDL_CreateRenderer(win, -1, SDL_RENDERER_PRESENTVSYNC); // Создание рендера для рисования в окне
         // Выходим, если не удалось создать рендерер

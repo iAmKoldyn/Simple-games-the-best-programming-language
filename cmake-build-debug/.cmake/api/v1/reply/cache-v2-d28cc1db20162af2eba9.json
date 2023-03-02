@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/iamkoldyn/Titaevsky/cmake-build-debug"
+			"value" : "/home/iamkoldyn/Simple-games-the-best-programming-language/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -463,7 +463,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/iamkoldyn/Titaevsky"
+			"value" : "/home/iamkoldyn/Simple-games-the-best-programming-language"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -703,7 +703,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Titaevsky"
+			"value" : "Titaevskiy"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -986,6 +986,42 @@
 			"value" : "FALSE"
 		},
 		{
+			"name" : "Titaevskiy_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/iamkoldyn/Simple-games-the-best-programming-language/cmake-build-debug"
+		},
+		{
+			"name" : "Titaevskiy_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Titaevskiy_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/iamkoldyn/Simple-games-the-best-programming-language"
+		},
+		{
 			"name" : "Titaevsky_BINARY_DIR",
 			"properties" : 
 			[
@@ -995,7 +1031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/iamkoldyn/Titaevsky/cmake-build-debug"
+			"value" : "/home/iamkoldyn/Simple-games-the-best-programming-language/cmake-build-debug"
 		},
 		{
 			"name" : "Titaevsky_IS_TOP_LEVEL",
@@ -1019,7 +1055,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/iamkoldyn/Titaevsky"
+			"value" : "/home/iamkoldyn/Simple-games-the-best-programming-language"
 		}
 	],
 	"kind" : "cache",
